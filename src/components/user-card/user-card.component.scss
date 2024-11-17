@@ -1,0 +1,37 @@
+.user-card {
+  padding: 32px;
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 20px;
+  border: 1px solid #9C9C9C;
+  border-radius: 16px;
+
+  @media (min-width: 960px) {
+    flex-direction: row;
+  }
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  &__text {
+    margin-left: 24px;
+  }
+
+  &--reverse {
+    flex-direction: column-reverse;
+    align-items: end;
+
+    @media (min-width: 960px) {
+      flex-direction: row-reverse;
+      align-items: start;
+    }
+  }
+
+  &--reverse &__content,
+  &--reverse &__text {
+    align-items: end;
+  }
+}

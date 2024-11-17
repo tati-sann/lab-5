@@ -1,0 +1,20 @@
+<div class="home-page">
+  <app-user-card
+    *ngFor="let user of users"
+    [fullName]="user.fullname"
+    [photoUrl]="user.photoUrl"
+    [educations]="user.educations"
+    [works]="user.works"
+    [skills]="user.skills"
+    [reverse]="user.id === 2"
+  />
+
+
+  <div class="home-page__actions" >
+    <app-button
+      (click)="goToGroup(groupId)"
+    >
+      Перейти к группе
+    </app-button>
+  </div>
+</div>

@@ -1,0 +1,13 @@
+<div class="group-page">
+  <app-typography
+    *ngIf="!groupId;
+    else showGroup"
+    size="40px"
+  >
+    Группа не найдена
+  </app-typography>
+
+  <ng-template #showGroup>
+    <app-typography size="40px">Группа {{groupId}}</app-typography>
+  </ng-template>
+</div>

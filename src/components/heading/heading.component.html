@@ -1,0 +1,67 @@
+<ng-container [ngSwitch]="level">
+  <h1
+    *ngSwitchCase="'h1'"
+    class="heading"
+    [ngStyle]="{
+    'font-size': variantStyles.fontSize,
+    'line-height': variantStyles.lineHeight,
+    'font-weight': weight
+    }"
+  >
+    {{text}}
+  </h1>
+  <h2
+    *ngSwitchCase="'h2'"
+    class="heading"
+    [ngStyle]="{
+    'font-size': variantStyles.fontSize,
+    'line-height': variantStyles.lineHeight,
+    'font-weight': weight
+    }"
+  >
+    {{text}}
+  </h2>
+  <h3
+    *ngSwitchCase="'h3'"
+    class="heading"
+    [ngStyle]="{
+    'font-size': variantStyles.fontSize,
+    'line-height': variantStyles.lineHeight,
+    'font-weight': weight }"
+  >
+    {{text}}
+  </h3>
+  <h4
+    *ngSwitchCase="'h4'"
+    class="heading"
+    [ngStyle]="{
+    'font-size': variantStyles.fontSize,
+    'line-height': variantStyles.lineHeight,
+    'font-weight': weight
+    }"
+  >
+    {{text}}
+  </h4>
+  <h5
+    *ngSwitchCase="'h5'"
+    class="heading"
+    [ngStyle]="{
+    'font-size': variantStyles.fontSize,
+    'line-height': variantStyles.lineHeight,
+    'font-weight': weight
+    }"
+  >
+    {{text}}
+  </h5>
+  <h6
+    *ngSwitchCase="'h6'"
+    class="heading"
+    [ngStyle]="{
+    'font-size': variantStyles.fontSize,
+    'line-height': variantStyles.lineHeight,
+    'font-weight': weight
+    }"
+  >
+    {{text}}
+  </h6>
+</ng-container>

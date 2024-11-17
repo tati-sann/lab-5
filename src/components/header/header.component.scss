@@ -1,0 +1,38 @@
+.header {
+  height: 70px;
+  width: 100%;
+
+  &__nav {
+    height: 100%;
+    width: 90%;
+    margin: 0 auto;
+    background-color: #1B1B1B;
+    border-radius: 0 0 16px 16px;
+  }
+}
+
+.navigation {
+  &__list {
+    padding: 24px;
+    margin: 0;
+    display: flex; justify-content: center;
+    gap: 24px;
+    list-style: none;
+  }
+
+  &__link {
+    font-family: "IBM Plex Mono", monospace;
+    text-decoration: none;
+    color: #9C9C9C;
+    font-size: 18px;
+    text-transform: uppercase;
+
+    &:hover {
+      opacity: 0.6;
+    }
+
+    &--active {
+      color: #62BA1B;
+    }
+  }
+}
