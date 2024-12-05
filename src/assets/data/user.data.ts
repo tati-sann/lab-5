@@ -1,4 +1,4 @@
-import {Description} from '../components/user-card/user-card.component';
+import {Description} from '../../components/user-card/user-card.component';
 
 type User = {
   id: number,

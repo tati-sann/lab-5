@@ -1,4 +1,5 @@
 @import 'normalize.css/normalize.css';
+@import '@angular/material/prebuilt-themes/purple-green.css';
 
 html, body  {
   height: 100%;
@@ -8,4 +9,8 @@ html, body  {
 
 * {
   box-sizing: border-box;
+}
+
+.list-none {
+  list-style: none;
 }

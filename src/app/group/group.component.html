@@ -1,13 +1,36 @@
 <div class="group-page">
+  <div class="group-page__top">
+    <button mat-fab extended (click)="toAddStudent()">
+      Добавить студента
+    </button>
+    <mat-form-field>
+      <mat-label>Группа</mat-label>
+      <mat-select [(value)]="selectedGroup" (selectionChange)="onGroupSelected($event.value)">
+        <mat-option *ngFor="let group of groups" [value]="group.name">{{group.name}}</mat-option>
+      </mat-select>
+    </mat-form-field>
+  </div>
+
   <app-typography
-    *ngIf="!groupId;
+    *ngIf="!selectedGroup;
     else showGroup"
     size="40px"
   >
-    Группа не найдена
+    Группа не выбрана
   </app-typography>
 
   <ng-template #showGroup>
-    <app-typography size="40px">Группа {{groupId}}</app-typography>
+    <ul class="list-none student-list">
+      <li *ngFor="let student of students">
+        <app-student-card
+          [fullName]="student.fullName"
+          [dateOfBirth]="student.dateOfBirth"
+          [groupLink]="student.groupLink"
+          [course]="student.course"
+          [yearOfAdmission]="student.yearOfAdmission"
+          [id]="student.id ?? '#'"
+        />
+      </li>
+    </ul>
   </ng-template>
 </div>

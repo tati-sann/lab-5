@@ -3,7 +3,7 @@ import { TypographyComponent } from '../../components/typography/typography.comp
 import { UserCardComponent } from '../../components/user-card/user-card.component';
 import { HeadingComponent } from '../../components/heading/heading.component';
 import { ButtonComponent } from '../../components/button/button.component';
-import { users } from '../../data/user.data';
+import { users } from '../../assets/data/user.data';
 import { NgForOf } from '@angular/common';
 import { Router } from '@angular/router';
 

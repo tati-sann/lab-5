@@ -1,0 +1,23 @@
+<div class="student-card" [appItalicIfMinor]="age < 18">
+  <div class="student-card__content">
+    <div>
+      <app-heading variant="h6" [text]="fullName"/>
+      <app-typography>
+        {{birthDate | birthCentury}}
+      </app-typography>
+      <app-typography>
+        Год поступления: {{yearOfAdmission}}
+      </app-typography>
+      <app-typography>
+        Курс: {{course}}
+      </app-typography>
+      <app-typography>
+        Группа: {{groupLink}}
+      </app-typography>
+    </div>
+
+    <div class="student-card__action">
+      <a mat-raised-button [href]="url">Редактировать</a>
+    </div>
+  </div>
+</div>

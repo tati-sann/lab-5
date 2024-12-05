@@ -1,0 +1,1242 @@
+{
+  "groups": [
+    {
+      "id": "1",
+      "name": "6131-020402D"
+    },
+    {
+      "id": "2",
+      "name": "6132-020402D"
+    },
+    {
+      "id": "3",
+      "name": "6133-020402D"
+    },
+    {
+      "id": "4",
+      "name": "6134-020402D"
+    },
+    {
+      "id": "5",
+      "name": "6135-020402D"
+    }
+  ],
+  "students": [
+    {
+      "fullName": "Захаров Дмитрий Павловна",
+      "dateOfBirth": "2000-05-18",
+      "groupLink": "6133-020402D",
+      "course": 3,
+      "yearOfAdmission": 2022,
+      "id": "b2967365-03fb-48b2-a47b-7d94daca5dd8"
+    },
+    {
+      "fullName": "Васильев Сергей Аркадьевна",
+      "dateOfBirth": "2006-05-23",
+      "groupLink": "6135-020402D",
+      "course": 2,
+      "yearOfAdmission": 2023,
+      "id": "5984ab8f-5606-40c4-a8a2-62f8a34a48a9"
+    },
+    {
+      "fullName": "Максимов Анна Геннадьевна",
+      "dateOfBirth": "2004-03-05",
+      "groupLink": "6134-020402D",
+      "course": 3,
+      "yearOfAdmission": 2022,
+      "id": "a28e2043-ee2c-4c70-92b6-d1f7a1d4e5eb"
+    },
+    {
+      "fullName": "Миронов Владимир Геннадьевна",
+      "dateOfBirth": "2005-12-15",
+      "groupLink": "6132-020402D",
+      "course": 3,
+      "yearOfAdmission": 2022,
+      "id": "1aa30ae8-390d-4ad1-9485-898fd47e0e6a"
+    },
+    {
+      "fullName": "Тихонов Дарья Иванович",
+      "dateOfBirth": "2001-09-07",
+      "groupLink": "6135-020402D",
+      "course": 3,
+      "yearOfAdmission": 2023,
+      "id": "4f3198a0-9b90-4532-bb40-e5a0a1d596ca"
+    },
+    {
+      "fullName": "Михайлов Сергей Владимировна",
+      "dateOfBirth": "2005-02-13",
+      "groupLink": "6132-020402D",
+      "course": 2,
+      "yearOfAdmission": 2024,
+      "id": "ae438aeb-d855-450e-b4b1-0b1c330303fe"
+    },
+    {
+      "fullName": "Евдокимов Алексей Анатольевна",
+      "dateOfBirth": "2005-05-25",
+      "groupLink": "6134-020402D",
+      "course": 2,
+      "yearOfAdmission": 2024,
+      "id": "d442b088-1373-4959-be36-15fe87e30519"
+    },
+    {
+      "fullName": "Миронов Дарья Матвеевна",
+      "dateOfBirth": "1997-12-26",
+      "groupLink": "6132-020402D",
+      "course": 5,
+      "yearOfAdmission": 2023,
+      "id": "48d3bace-57ad-4f23-bd94-1fdbfeb126ef"
+    },
+    {
+      "fullName": "Николаев Светлана Сергеевич",
+      "dateOfBirth": "2007-10-21",
+      "groupLink": "6134-020402D",
+      "course": 2,
+      "yearOfAdmission": 2022,
+      "id": "1cd3a836-0ed9-4ef3-879b-5139e0338c5f"
+    },
+    {
+      "fullName": "Захаров Александр Владимировна",
+      "dateOfBirth": "2001-09-26",
+      "groupLink": "6134-020402D",
+      "course": 3,
+      "yearOfAdmission": 2023,
+      "id": "eafa5028-290e-445b-90ff-85e6d5564af8"
+    },
+    {
+      "fullName": "Алексеев Сергей Владимирович",
+      "dateOfBirth": "2005-07-02",
+      "groupLink": "6131-020402D",
+      "course": 5,
+      "yearOfAdmission": 2024,
+      "id": "bda8afe6-0b1e-420e-b0a2-e150e05911f7"
+    },
+    {
+      "fullName": "Орлова Кирилл Павловна",
+      "dateOfBirth": "2007-06-28",
+      "groupLink": "6134-020402D",
+      "course": 3,
+      "yearOfAdmission": 2023,
+      "id": "bb0bc1d9-9041-4ed0-82af-df430320b229"
+    },
+    {
+      "fullName": "Евдокимов Андрей Константиновна",
+      "dateOfBirth": "2003-12-12",
+      "groupLink": "6135-020402D",
+      "course": 1,
+      "yearOfAdmission": 2022,
+      "id": "ca7eabc2-b74d-4c5a-8d03-2c9e923b329d"
+    },
+    {
+      "fullName": "Семенов Юлия Геннадьевна",
+      "dateOfBirth": "2003-07-17",
+      "groupLink": "6131-020402D",
+      "course": 4,
+      "yearOfAdmission": 2023,
+      "id": "39611198-d890-4921-8f44-36cd55523174"
+    },
+    {
+      "fullName": "Попов Юлия Матвеевна",
+      "dateOfBirth": "2006-05-27",
+      "groupLink": "6134-020402D",
+      "course": 4,
+      "yearOfAdmission": 2023,
+      "id": "c31a0dd3-6600-44e2-84e5-ef10666447eb"
+    },
+    {
+      "fullName": "Тихонов Мария Аркадьевна",
+      "dateOfBirth": "2007-03-19",
+      "groupLink": "6132-020402D",
+      "course": 2,
+      "yearOfAdmission": 2022,
+      "id": "38ac46de-782f-4846-af41-56d3d8dcd66b"
+    },
+    {
+      "fullName": "Белов Андрей Аркадьевна",
+      "dateOfBirth": "2006-11-22",
+      "groupLink": "6133-020402D",
+      "course": 5,
+      "yearOfAdmission": 2022,
+      "id": "b639633f-1816-4187-8d22-1b06f537c5e9"
+    },
+    {
+      "fullName": "Семенов Мария Денисовна",
+      "dateOfBirth": "1999-02-02",
+      "groupLink": "6133-020402D",
+      "course": 3,
+      "yearOfAdmission": 2024,
+      "id": "12274f5b-46d0-4440-b352-8074976387da"
+    },
+    {
+      "fullName": "Алексеев Дмитрий Александрович",
+      "dateOfBirth": "2005-03-21",
+      "groupLink": "6133-020402D",
+      "course": 1,
+      "yearOfAdmission": 2022,
+      "id": "955fb27f-eff0-4e34-9390-bd3f7723ddba"
+    },
+    {
+      "fullName": "Михайлов Екатерина Александрович",
+      "dateOfBirth": "1999-10-11",
+      "groupLink": "6132-020402D",
+      "course": 1,
+      "yearOfAdmission": 2023,
+      "id": "d64d343e-3e1d-43dd-a055-dd03bb27e569"
+    },
+    {
+      "fullName": "Алексеев Андрей Валерьевна",
+      "dateOfBirth": "2006-07-13",
+      "groupLink": "6132-020402D",
+      "course": 1,
+      "yearOfAdmission": 2023,
+      "id": "c4f9ae48-89d3-43da-bfd1-2b6cc20b7e6a"
+    },
+    {
+      "fullName": "Тихонов Павел Анатольевна",
+      "dateOfBirth": "2002-12-11",
+      "groupLink": "6131-020402D",
+      "course": 1,
+      "yearOfAdmission": 2022,
+      "id": "5439fd25-1a6c-4670-b8e0-32d44079bf4b"
+    },
+    {
+      "fullName": "Николаев Дмитрий Анатольевна",
+      "dateOfBirth": "2007-01-10",
+      "groupLink": "6134-020402D",
+      "course": 2,
+      "yearOfAdmission": 2022,
+      "id": "364505fa-1a55-4f5b-81bc-9e61298ff2ae"
+    },
+    {
+      "fullName": "Степанов Дарья Иванович",
+      "dateOfBirth": "2004-07-03",
+      "groupLink": "6132-020402D",
+      "course": 3,
+      "yearOfAdmission": 2024,
+      "id": "66d09437-99e7-4409-815c-5411953ef15c"
+    },
+    {
+      "fullName": "Михайлов Екатерина Денисовна",
+      "dateOfBirth": "2007-08-24",
+      "groupLink": "6134-020402D",
+      "course": 1,
+      "yearOfAdmission": 2024,
+      "id": "bee23373-d63e-4bca-a985-076abc25d2af"
+    },
+    {
+      "fullName": "Белов Татьяна Матвеевна",
+      "dateOfBirth": "2001-01-19",
+      "groupLink": "6132-020402D",
+      "course": 3,
+      "yearOfAdmission": 2023,
+      "id": "1e164188-21b6-4cfc-bd78-f5eab117138a"
+    },
+    {
+      "fullName": "Миронов Мария Анатольевна",
+      "dateOfBirth": "2007-11-20",
+      "groupLink": "6135-020402D",
+      "course": 2,
+      "yearOfAdmission": 2024,
+      "id": "488cce70-7008-4f53-a1d2-f6ae858e50a6"
+    },
+    {
+      "fullName": "Волков Дмитрий Николаевна",
+      "dateOfBirth": "2006-09-25",
+      "groupLink": "6133-020402D",
+      "course": 2,
+      "yearOfAdmission": 2022,
+      "id": "20f893dd-598e-427b-9159-3e831548ecde"
+    },
+    {
+      "fullName": "Орлова Полина Матвеевна",
+      "dateOfBirth": "2003-04-01",
+      "groupLink": "6131-020402D",
+      "course": 1,
+      "yearOfAdmission": 2023,
+      "id": "54501f1f-ca80-444c-98aa-9fcd60098836"
+    },
+    {
+      "fullName": "Тихонов Владимир Николаевна",
+      "dateOfBirth": "2005-01-04",
+      "groupLink": "6133-020402D",
+      "course": 5,
+      "yearOfAdmission": 2024,
+      "id": "a68ab6d7-22e1-4e5f-910c-29b53ca452fa"
+    },
+    {
+      "fullName": "Михайлов Александр Аркадьевна",
+      "dateOfBirth": "2002-12-21",
+      "groupLink": "6133-020402D",
+      "course": 2,
+      "yearOfAdmission": 2022,
+      "id": "dcbf5ec3-d3e1-4b07-b0d8-b32a63389bd2"
+    },
+    {
+      "fullName": "Павлов Дарья Олегович",
+      "dateOfBirth": "2001-09-19",
+      "groupLink": "6132-020402D",
+      "course": 1,
+      "yearOfAdmission": 2024,
+      "id": "732bed4e-85e1-4080-b8e1-8eb73d67db1a"
+    },
+    {
+      "fullName": "Андреев Анна Константиновна",
+      "dateOfBirth": "2006-10-06",
+      "groupLink": "6135-020402D",
+      "course": 5,
+      "yearOfAdmission": 2022,
+      "id": "15f51b7a-2949-404f-8025-6c1656d68b5a"
+    },
+    {
+      "fullName": "Петров Елена Павловна",
+      "dateOfBirth": "2001-09-21",
+      "groupLink": "6132-020402D",
+      "course": 2,
+      "yearOfAdmission": 2022,
+      "id": "ebe0f734-0b1d-46f5-af69-79725a09971c"
+    },
+    {
+      "fullName": "Васильев Юлия Николаевна",
+      "dateOfBirth": "1998-10-05",
+      "groupLink": "6131-020402D",
+      "course": 1,
+      "yearOfAdmission": 2023,
+      "id": "ce77d629-cc62-46f6-a4f4-2220b181746b"
+    },
+    {
+      "fullName": "Андреев Виктория Владимировна",
+      "dateOfBirth": "2003-02-27",
+      "groupLink": "6134-020402D",
+      "course": 1,
+      "yearOfAdmission": 2022,
+      "id": "f20b42fc-1ed7-43d6-820d-4cde4ccd0c0a"
+    },
+    {
+      "fullName": "Павлов Алексей Геннадьевна",
+      "dateOfBirth": "1998-03-19",
+      "groupLink": "6132-020402D",
+      "course": 2,
+      "yearOfAdmission": 2022,
+      "id": "8efb8d81-3c26-45bc-94d9-2ba5a763fa9b"
+    },
+    {
+      "fullName": "Романова Сергей Александрович",
+      "dateOfBirth": "1999-12-17",
+      "groupLink": "6132-020402D",
+      "course": 1,
+      "yearOfAdmission": 2022,
+      "id": "c4926262-3d47-4985-8fa3-6e557d32630a"
+    },
+    {
+      "fullName": "Сидоров Андрей Матвеевна",
+      "dateOfBirth": "2002-12-11",
+      "groupLink": "6132-020402D",
+      "course": 5,
+      "yearOfAdmission": 2023,
+      "id": "0bedde99-b428-4aac-8d65-5e4d76af8f5d"
+    },
+    {
+      "fullName": "Павлов Сергей Сергеевич",
+      "dateOfBirth": "2003-11-28",
+      "groupLink": "6134-020402D",
+      "course": 4,
+      "yearOfAdmission": 2022,
+      "id": "9aeb2804-ba41-47eb-8691-d08b732a2951"
+    },
+    {
+      "fullName": "Тихонов Дмитрий Матвеевна",
+      "dateOfBirth": "2004-04-16",
+      "groupLink": "6135-020402D",
+      "course": 2,
+      "yearOfAdmission": 2024,
+      "id": "0344ccdf-d18f-4d30-835d-b95243c02e0c"
+    },
+    {
+      "fullName": "Михайлов Дарья Аркадьевна",
+      "dateOfBirth": "2006-06-24",
+      "groupLink": "6131-020402D",
+      "course": 4,
+      "yearOfAdmission": 2022,
+      "id": "71753b8b-877c-414b-89ee-ec555dc726f7"
+    },
+    {
+      "fullName": "Степанов Алексей Матвеевна",
+      "dateOfBirth": "2006-08-25",
+      "groupLink": "6131-020402D",
+      "course": 3,
+      "yearOfAdmission": 2022,
+      "id": "3ab4b646-08f2-4303-8fb3-f27e5d487d09"
+    },
+    {
+      "fullName": "Кузнецова Иван Аркадьевна",
+      "dateOfBirth": "2001-07-25",
+      "groupLink": "6133-020402D",
+      "course": 3,
+      "yearOfAdmission": 2023,
+      "id": "eb6dba8d-ba24-4ef7-959a-091085489c74"
+    },
+    {
+      "fullName": "Степанов Мария Денисовна",
+      "dateOfBirth": "2004-08-09",
+      "groupLink": "6134-020402D",
+      "course": 4,
+      "yearOfAdmission": 2024,
+      "id": "b0d1aa45-a9ae-4728-aeb5-6d0334d3155e"
+    },
+    {
+      "fullName": "Захаров Дмитрий Борисовна",
+      "dateOfBirth": "2004-04-18",
+      "groupLink": "6131-020402D",
+      "course": 2,
+      "yearOfAdmission": 2023,
+      "id": "6d35d15f-f7ee-40fa-8813-0e86c3762780"
+    },
+    {
+      "fullName": "Волков Алексей Владимировна",
+      "dateOfBirth": "1998-10-19",
+      "groupLink": "6131-020402D",
+      "course": 2,
+      "yearOfAdmission": 2022,
+      "id": "1196c44b-6a36-42be-a67d-860b5a326590"
+    },
+    {
+      "fullName": "Николаев Владимир Александрович",
+      "dateOfBirth": "2006-10-03",
+      "groupLink": "6132-020402D",
+      "course": 3,
+      "yearOfAdmission": 2023,
+      "id": "3b3601aa-52fd-4f0a-86f4-e4448493a4dd"
+    },
+    {
+      "fullName": "Михайлов Антон Георгиевна",
+      "dateOfBirth": "2007-12-28",
+      "groupLink": "6135-020402D",
+      "course": 2,
+      "yearOfAdmission": 2022,
+      "id": "b4bf0bd1-bc3d-40a3-8c3a-e84428326373"
+    },
+    {
+      "fullName": "Орлова Татьяна Павловна",
+      "dateOfBirth": "2005-08-16",
+      "groupLink": "6134-020402D",
+      "course": 2,
+      "yearOfAdmission": 2024,
+      "id": "d2843f78-1e1f-45a2-9289-95dcf4a3e5a0"
+    },
+    {
+      "fullName": "Волков Михаил Олегович",
+      "dateOfBirth": "2005-10-21",
+      "groupLink": "6135-020402D",
+      "course": 3,
+      "yearOfAdmission": 2023,
+      "id": "05932094-5e48-4018-b02c-5fe1f2c834dd"
+    },
+    {
+      "fullName": "Волков Александр Владимировна",
+      "dateOfBirth": "1998-10-26",
+      "groupLink": "6135-020402D",
+      "course": 3,
+      "yearOfAdmission": 2022,
+      "id": "0448783a-d4fa-4c27-ad0f-0c3525a1ec84"
+    },
+    {
+      "fullName": "Федоров Виктория Владимировна",
+      "dateOfBirth": "2004-07-06",
+      "groupLink": "6133-020402D",
+      "course": 1,
+      "yearOfAdmission": 2023,
+      "id": "916496b9-6027-4f46-8aa7-b3faef8efbe6"
+    },
+    {
+      "fullName": "Федоров Павел Константиновна",
+      "dateOfBirth": "2006-06-12",
+      "groupLink": "6134-020402D",
+      "course": 4,
+      "yearOfAdmission": 2022,
+      "id": "3111fb46-94b3-43b9-be6c-ec72f385a8f7"
+    },
+    {
+      "fullName": "Тихонов Михаил Анатольевна",
+      "dateOfBirth": "1999-02-17",
+      "groupLink": "6132-020402D",
+      "course": 1,
+      "yearOfAdmission": 2022,
+      "id": "70555850-31b1-4d0b-9b46-b13d7db16295"
+    },
+    {
+      "fullName": "Попов Алексей Геннадьевна",
+      "dateOfBirth": "2007-07-14",
+      "groupLink": "6131-020402D",
+      "course": 4,
+      "yearOfAdmission": 2024,
+      "id": "026025ca-45f8-472d-b13c-a5e2bc823bbf"
+    },
+    {
+      "fullName": "Евдокимов Александр Олегович",
+      "dateOfBirth": "2002-07-14",
+      "groupLink": "6132-020402D",
+      "course": 1,
+      "yearOfAdmission": 2023,
+      "id": "7aae9e9b-5e40-4ed5-ad83-1c1e22342b5f"
+    },
+    {
+      "fullName": "Волков Полина Георгиевна",
+      "dateOfBirth": "1998-07-18",
+      "groupLink": "6133-020402D",
+      "course": 2,
+      "yearOfAdmission": 2022,
+      "id": "c6b6192b-3ebb-4a0b-b84f-512099ae23bd"
+    },
+    {
+      "fullName": "Кузнецова Татьяна Геннадьевна",
+      "dateOfBirth": "2000-02-26",
+      "groupLink": "6135-020402D",
+      "course": 1,
+      "yearOfAdmission": 2023,
+      "id": "8ecdd60b-4819-43cc-87f4-10380eaa31cd"
+    },
+    {
+      "fullName": "Захаров Дмитрий Матвеевна",
+      "dateOfBirth": "2005-09-06",
+      "groupLink": "6135-020402D",
+      "course": 2,
+      "yearOfAdmission": 2024,
+      "id": "3841506d-9ff1-4356-baac-5a3ab057ced4"
+    },
+    {
+      "fullName": "Марков Иван Матвеевна",
+      "dateOfBirth": "2002-03-10",
+      "groupLink": "6131-020402D",
+      "course": 2,
+      "yearOfAdmission": 2023,
+      "id": "c3c30db2-d715-429e-84fc-18e542445f14"
+    },
+    {
+      "fullName": "Орлова Екатерина Георгиевна",
+      "dateOfBirth": "1998-09-08",
+      "groupLink": "6134-020402D",
+      "course": 4,
+      "yearOfAdmission": 2022,
+      "id": "1fc6a4cf-271a-4bb8-9930-10c833faae81"
+    },
+    {
+      "fullName": "Андреев Иван Константиновна",
+      "dateOfBirth": "2005-05-04",
+      "groupLink": "6134-020402D",
+      "course": 3,
+      "yearOfAdmission": 2024,
+      "id": "bcfedc15-7cc1-417c-8313-57f24d0b48eb"
+    },
+    {
+      "fullName": "Павлов Иван Денисовна",
+      "dateOfBirth": "2005-05-04",
+      "groupLink": "6133-020402D",
+      "course": 5,
+      "yearOfAdmission": 2024,
+      "id": "ae9353f8-8d02-487d-b9f6-277f27bc0a6e"
+    },
+    {
+      "fullName": "Семенов Наталья Сергеевич",
+      "dateOfBirth": "2004-01-14",
+      "groupLink": "6133-020402D",
+      "course": 2,
+      "yearOfAdmission": 2024,
+      "id": "78ac07e5-cb06-4c58-8b8d-95e450d03de3"
+    },
+    {
+      "fullName": "Алексеев Михаил Денисовна",
+      "dateOfBirth": "1999-02-11",
+      "groupLink": "6132-020402D",
+      "course": 2,
+      "yearOfAdmission": 2022,
+      "id": "4d79cdbc-fe73-40a7-a3dc-6d4355582617"
+    },
+    {
+      "fullName": "Евдокимов Александр Олегович",
+      "dateOfBirth": "2001-01-21",
+      "groupLink": "6134-020402D",
+      "course": 3,
+      "yearOfAdmission": 2024,
+      "id": "b605e048-e1de-412d-8536-675ce7e8435c"
+    },
+    {
+      "fullName": "Евдокимов Владимир Анатольевна",
+      "dateOfBirth": "2005-05-16",
+      "groupLink": "6133-020402D",
+      "course": 5,
+      "yearOfAdmission": 2024,
+      "id": "41e7c620-bf01-439d-8e60-9ba34221245c"
+    },
+    {
+      "fullName": "Попов Павел Константиновна",
+      "dateOfBirth": "2000-09-08",
+      "groupLink": "6135-020402D",
+      "course": 5,
+      "yearOfAdmission": 2022,
+      "id": "c8d6c40d-3e95-4679-8871-b9ab2880eb96"
+    },
+    {
+      "fullName": "Орлова Дарья Валерьевна",
+      "dateOfBirth": "2006-07-15",
+      "groupLink": "6134-020402D",
+      "course": 2,
+      "yearOfAdmission": 2022,
+      "id": "ec895a18-d783-4914-ac97-ad2e51339a2a"
+    },
+    {
+      "fullName": "Белов Андрей Николаевна",
+      "dateOfBirth": "2006-10-23",
+      "groupLink": "6133-020402D",
+      "course": 3,
+      "yearOfAdmission": 2022,
+      "id": "eb99b781-2838-486a-b4b7-814e26acfbf4"
+    },
+    {
+      "fullName": "Алексеев Татьяна Сергеевич",
+      "dateOfBirth": "2001-04-16",
+      "groupLink": "6135-020402D",
+      "course": 2,
+      "yearOfAdmission": 2023,
+      "id": "fa9cd87c-78f7-4680-8e38-c5ac1ecd5859"
+    },
+    {
+      "fullName": "Иванов Алексей Павловна",
+      "dateOfBirth": "2004-06-25",
+      "groupLink": "6131-020402D",
+      "course": 5,
+      "yearOfAdmission": 2024,
+      "id": "f5e282c8-a8b5-42f3-9fc6-a8ea4c45fb95"
+    },
+    {
+      "fullName": "Миронов Дарья Владимировна",
+      "dateOfBirth": "2000-05-15",
+      "groupLink": "6133-020402D",
+      "course": 5,
+      "yearOfAdmission": 2023,
+      "id": "9a24660e-17d6-4fd6-ac0a-a6666c748578"
+    },
+    {
+      "fullName": "Петров Наталья Сергеевич",
+      "dateOfBirth": "2004-03-02",
+      "groupLink": "6132-020402D",
+      "course": 3,
+      "yearOfAdmission": 2024,
+      "id": "942e49e6-0145-4c59-b78b-63418ffe7d61"
+    },
+    {
+      "fullName": "Степанов Антон Сергеевич",
+      "dateOfBirth": "2003-07-24",
+      "groupLink": "6131-020402D",
+      "course": 3,
+      "yearOfAdmission": 2023,
+      "id": "37e08521-16b6-419d-b08a-57506aa11a80"
+    },
+    {
+      "fullName": "Иванов Антон Павловна",
+      "dateOfBirth": "2003-02-03",
+      "groupLink": "6134-020402D",
+      "course": 1,
+      "yearOfAdmission": 2022,
+      "id": "30d15d79-0bbb-4fe5-8812-6bae89c89e9c"
+    },
+    {
+      "fullName": "Волков Екатерина Олегович",
+      "dateOfBirth": "2002-07-13",
+      "groupLink": "6131-020402D",
+      "course": 2,
+      "yearOfAdmission": 2022,
+      "id": "969d0b7f-ee08-4afe-8764-0b6421fa04a6"
+    },
+    {
+      "fullName": "Федоров Иван Владимировна",
+      "dateOfBirth": "2006-12-08",
+      "groupLink": "6132-020402D",
+      "course": 2,
+      "yearOfAdmission": 2022,
+      "id": "6e150e12-2430-43be-864c-5c60b651de8a"
+    },
+    {
+      "fullName": "Васильев Светлана Константиновна",
+      "dateOfBirth": "2004-10-23",
+      "groupLink": "6135-020402D",
+      "course": 2,
+      "yearOfAdmission": 2023,
+      "id": "a4c7cbbe-5297-4eb0-9495-dc41584f7c60"
+    },
+    {
+      "fullName": "Волков Иван Геннадьевна",
+      "dateOfBirth": "1998-06-13",
+      "groupLink": "6135-020402D",
+      "course": 5,
+      "yearOfAdmission": 2022,
+      "id": "900fb58f-a4ec-4a88-8534-5b5a7ad09ca3"
+    },
+    {
+      "fullName": "Петров Татьяна Павловна",
+      "dateOfBirth": "2003-01-15",
+      "groupLink": "6131-020402D",
+      "course": 5,
+      "yearOfAdmission": 2024,
+      "id": "27424766-724e-4feb-a7e6-62c9efc4253b"
+    },
+    {
+      "fullName": "Миронов Мария Олегович",
+      "dateOfBirth": "2004-08-24",
+      "groupLink": "6131-020402D",
+      "course": 4,
+      "yearOfAdmission": 2023,
+      "id": "a467a33d-94c6-4ad4-9865-19140817f18e"
+    },
+    {
+      "fullName": "Белов Полина Анатольевна",
+      "dateOfBirth": "1997-01-25",
+      "groupLink": "6134-020402D",
+      "course": 3,
+      "yearOfAdmission": 2023,
+      "id": "3d1f5561-144f-4039-97de-76e137398dc0"
+    },
+    {
+      "fullName": "Белов Наталья Павловна",
+      "dateOfBirth": "2002-11-02",
+      "groupLink": "6132-020402D",
+      "course": 5,
+      "yearOfAdmission": 2022,
+      "id": "c1d981f5-f869-46d6-a5fd-1776a6993871"
+    },
+    {
+      "fullName": "Волков Полина Николаевна",
+      "dateOfBirth": "2003-04-27",
+      "groupLink": "6132-020402D",
+      "course": 5,
+      "yearOfAdmission": 2022,
+      "id": "d0ea2278-a7a5-4e70-a548-d3ec71fb657e"
+    },
+    {
+      "fullName": "Павлов Николай Анатольевна",
+      "dateOfBirth": "2007-03-17",
+      "groupLink": "6134-020402D",
+      "course": 2,
+      "yearOfAdmission": 2024,
+      "id": "1873b089-276e-4f49-bf77-7cf874a3da1c"
+    },
+    {
+      "fullName": "Иванов Сергей Константиновна",
+      "dateOfBirth": "2007-05-09",
+      "groupLink": "6134-020402D",
+      "course": 3,
+      "yearOfAdmission": 2022,
+      "id": "7c922398-ad8a-4fd6-b7e6-f08d2b646afd"
+    },
+    {
+      "fullName": "Миронов Николай Аркадьевна",
+      "dateOfBirth": "2000-09-12",
+      "groupLink": "6133-020402D",
+      "course": 4,
+      "yearOfAdmission": 2023,
+      "id": "d87f4f73-ccec-47e9-81d5-6c3d1a08a600"
+    },
+    {
+      "fullName": "Андреев Владимир Валерьевна",
+      "dateOfBirth": "2003-03-25",
+      "groupLink": "6132-020402D",
+      "course": 5,
+      "yearOfAdmission": 2023,
+      "id": "1d20ee40-8b48-4b33-bf45-83e7d0b7fd93"
+    },
+    {
+      "fullName": "Петров Антон Иванович",
+      "dateOfBirth": "1999-01-06",
+      "groupLink": "6132-020402D",
+      "course": 2,
+      "yearOfAdmission": 2024,
+      "id": "1f443980-c740-4192-88ad-5457c7672f67"
+    },
+    {
+      "fullName": "Орлова Светлана Николаевна",
+      "dateOfBirth": "2003-11-27",
+      "groupLink": "6133-020402D",
+      "course": 3,
+      "yearOfAdmission": 2024,
+      "id": "d74f51a8-298b-4297-84de-cc1ff081508f"
+    },
+    {
+      "fullName": "Белов Светлана Аркадьевна",
+      "dateOfBirth": "1997-09-05",
+      "groupLink": "6131-020402D",
+      "course": 3,
+      "yearOfAdmission": 2022,
+      "id": "cd03d86f-c8d1-4e37-9f71-d741a3322a11"
+    },
+    {
+      "fullName": "Захаров Андрей Матвеевна",
+      "dateOfBirth": "1999-11-11",
+      "groupLink": "6131-020402D",
+      "course": 1,
+      "yearOfAdmission": 2024,
+      "id": "8a6f80e0-f936-4cd8-b17e-57dd758551da"
+    },
+    {
+      "fullName": "Андреев Наталья Александрович",
+      "dateOfBirth": "2000-06-28",
+      "groupLink": "6133-020402D",
+      "course": 2,
+      "yearOfAdmission": 2023,
+      "id": "9f745b49-5384-4198-9388-8a48533fe853"
+    },
+    {
+      "fullName": "Романова Павел Борисовна",
+      "dateOfBirth": "2004-10-12",
+      "groupLink": "6135-020402D",
+      "course": 1,
+      "yearOfAdmission": 2024,
+      "id": "c1c10626-2436-4cf0-a2a1-8b742ca9e6c7"
+    },
+    {
+      "fullName": "Степанов Татьяна Сергеевич",
+      "dateOfBirth": "2005-12-21",
+      "groupLink": "6135-020402D",
+      "course": 3,
+      "yearOfAdmission": 2023,
+      "id": "c7921ae7-ae45-4320-b43c-6634bfccd2a3"
+    },
+    {
+      "fullName": "Кузнецова Кирилл Геннадьевна",
+      "dateOfBirth": "2001-09-14",
+      "groupLink": "6135-020402D",
+      "course": 4,
+      "yearOfAdmission": 2022,
+      "id": "364a3224-721e-4689-a18a-51db292843f1"
+    },
+    {
+      "fullName": "Семенов Кирилл Николаевна",
+      "dateOfBirth": "2004-01-15",
+      "groupLink": "6135-020402D",
+      "course": 4,
+      "yearOfAdmission": 2024,
+      "id": "1bfe1429-c719-41b4-a147-b5c121849e2f"
+    },
+    {
+      "fullName": "Андреев Наталья Матвеевна",
+      "dateOfBirth": "2002-10-10",
+      "groupLink": "6132-020402D",
+      "course": 5,
+      "yearOfAdmission": 2024,
+      "id": "0c38f49c-61ea-47df-a76d-13c455ce21fe"
+    },
+    {
+      "fullName": "Николаев Елена Анатольевна",
+      "dateOfBirth": "2005-09-25",
+      "groupLink": "6135-020402D",
+      "course": 1,
+      "yearOfAdmission": 2024,
+      "id": "0acea25f-47ea-43c6-8593-4cf29b627327"
+    },
+    {
+      "fullName": "Волков Андрей Валерьевна",
+      "dateOfBirth": "2004-07-24",
+      "groupLink": "6135-020402D",
+      "course": 1,
+      "yearOfAdmission": 2024,
+      "id": "db766749-ffb5-40a4-b926-ac4970aac1e0"
+    },
+    {
+      "fullName": "Миронов Екатерина Александрович",
+      "dateOfBirth": "1999-09-02",
+      "groupLink": "6133-020402D",
+      "course": 1,
+      "yearOfAdmission": 2024,
+      "id": "b91fe26a-c349-4ccb-b6fe-8d2101e8e1d5"
+    },
+    {
+      "fullName": "Семенов Елена Геннадьевна",
+      "dateOfBirth": "1999-11-07",
+      "groupLink": "6134-020402D",
+      "course": 4,
+      "yearOfAdmission": 2024,
+      "id": "fb2a17c6-e1f8-445a-938b-e4137b510e65"
+    },
+    {
+      "fullName": "Алексеев Мария Валерьевна",
+      "dateOfBirth": "1997-07-15",
+      "groupLink": "6134-020402D",
+      "course": 5,
+      "yearOfAdmission": 2022,
+      "id": "af7185c6-9af9-4ccd-8bd8-3f239b9a32dc"
+    },
+    {
+      "fullName": "Кузнецова Антон Геннадьевна",
+      "dateOfBirth": "2002-08-26",
+      "groupLink": "6132-020402D",
+      "course": 3,
+      "yearOfAdmission": 2024,
+      "id": "fce8d5ae-cb9f-4a69-abe8-2a5b81a28d5f"
+    },
+    {
+      "fullName": "Алексеев Мария Валерьевна",
+      "dateOfBirth": "2000-11-02",
+      "groupLink": "6131-020402D",
+      "course": 3,
+      "yearOfAdmission": 2023,
+      "id": "dfd0294e-4b65-47ff-8fde-b3f38d13e8b2"
+    },
+    {
+      "fullName": "Кузнецова Андрей Олегович",
+      "dateOfBirth": "2003-11-11",
+      "groupLink": "6132-020402D",
+      "course": 4,
+      "yearOfAdmission": 2023,
+      "id": "9bf496c4-8a4c-438e-a0da-69f1657109d2"
+    },
+    {
+      "fullName": "Миронов Татьяна Павловна",
+      "dateOfBirth": "2003-06-18",
+      "groupLink": "6133-020402D",
+      "course": 4,
+      "yearOfAdmission": 2022,
+      "id": "7a040fea-b201-41d2-b61c-99fea9c719bf"
+    },
+    {
+      "fullName": "Павлов Светлана Александрович",
+      "dateOfBirth": "2007-02-18",
+      "groupLink": "6133-020402D",
+      "course": 1,
+      "yearOfAdmission": 2022,
+      "id": "6eced697-b74c-4e04-8f75-49cc45878448"
+    },
+    {
+      "fullName": "Петров Сергей Георгиевна",
+      "dateOfBirth": "2004-12-06",
+      "groupLink": "6132-020402D",
+      "course": 2,
+      "yearOfAdmission": 2024,
+      "id": "0fd64e0c-79f8-4750-922a-2e13b5d9d2ea"
+    },
+    {
+      "fullName": "Марков Александр Олегович",
+      "dateOfBirth": "2004-02-22",
+      "groupLink": "6135-020402D",
+      "course": 3,
+      "yearOfAdmission": 2022,
+      "id": "0ba1f66e-3504-4ce2-9c5d-5a48a8c7aaf4"
+    },
+    {
+      "fullName": "Белов Иван Аркадьевна",
+      "dateOfBirth": "1999-04-18",
+      "groupLink": "6132-020402D",
+      "course": 4,
+      "yearOfAdmission": 2024,
+      "id": "0b666bf1-8160-466c-834a-4cf565e58fe0"
+    },
+    {
+      "fullName": "Тихонов Николай Константиновна",
+      "dateOfBirth": "2000-02-17",
+      "groupLink": "6134-020402D",
+      "course": 5,
+      "yearOfAdmission": 2024,
+      "id": "86b3fd0f-b5db-44ff-95b5-438d37d2d380"
+    },
+    {
+      "fullName": "Попов Мария Олегович",
+      "dateOfBirth": "1997-09-15",
+      "groupLink": "6132-020402D",
+      "course": 4,
+      "yearOfAdmission": 2022,
+      "id": "6dffd686-b607-466e-a995-e26d646a5c89"
+    },
+    {
+      "fullName": "Орлова Екатерина Александрович",
+      "dateOfBirth": "2002-10-13",
+      "groupLink": "6135-020402D",
+      "course": 3,
+      "yearOfAdmission": 2023,
+      "id": "8df16913-71d5-4824-afd3-4f0812a5502c"
+    },
+    {
+      "fullName": "Алексеев Павел Александрович",
+      "dateOfBirth": "2001-06-13",
+      "groupLink": "6135-020402D",
+      "course": 3,
+      "yearOfAdmission": 2023,
+      "id": "ec053207-637f-4711-aa05-0fc83dc82dce"
+    },
+    {
+      "fullName": "Васильев Андрей Георгиевна",
+      "dateOfBirth": "1997-07-26",
+      "groupLink": "6131-020402D",
+      "course": 1,
+      "yearOfAdmission": 2024,
+      "id": "95a1ab1b-22fd-428e-8064-134641569b09"
+    },
+    {
+      "fullName": "Волков Александр Павловна",
+      "dateOfBirth": "2000-02-21",
+      "groupLink": "6132-020402D",
+      "course": 3,
+      "yearOfAdmission": 2024,
+      "id": "1d654e74-2053-4640-941e-9ff45b49c5c3"
+    },
+    {
+      "fullName": "Иванов Наталья Аркадьевна",
+      "dateOfBirth": "2000-09-12",
+      "groupLink": "6133-020402D",
+      "course": 4,
+      "yearOfAdmission": 2022,
+      "id": "f153f192-2e89-409d-95a0-3d46ccaed284"
+    },
+    {
+      "fullName": "Романова Полина Анатольевна",
+      "dateOfBirth": "2002-03-12",
+      "groupLink": "6132-020402D",
+      "course": 5,
+      "yearOfAdmission": 2023,
+      "id": "382f5b8a-3fa1-42fd-b6b8-d3de3a9087c8"
+    },
+    {
+      "fullName": "Захаров Елена Олегович",
+      "dateOfBirth": "1999-09-12",
+      "groupLink": "6135-020402D",
+      "course": 5,
+      "yearOfAdmission": 2023,
+      "id": "ffb4143a-185f-43c8-8a25-69c4725a8390"
+    },
+    {
+      "fullName": "Белов Татьяна Владимировна",
+      "dateOfBirth": "2006-04-05",
+      "groupLink": "6133-020402D",
+      "course": 4,
+      "yearOfAdmission": 2023,
+      "id": "44aa0720-fe6c-46a3-a848-3b9722eda578"
+    },
+    {
+      "fullName": "Семенов Антон Аркадьевна",
+      "dateOfBirth": "2001-01-05",
+      "groupLink": "6135-020402D",
+      "course": 5,
+      "yearOfAdmission": 2022,
+      "id": "74e07a68-e92a-45ed-884c-feb2cf5f1aeb"
+    },
+    {
+      "fullName": "Захаров Елена Николаевна",
+      "dateOfBirth": "1997-06-12",
+      "groupLink": "6131-020402D",
+      "course": 3,
+      "yearOfAdmission": 2022,
+      "id": "7fb28576-17d8-453e-a208-a6125942ff4c"
+    },
+    {
+      "fullName": "Волков Николай Борисовна",
+      "dateOfBirth": "2000-09-17",
+      "groupLink": "6135-020402D",
+      "course": 4,
+      "yearOfAdmission": 2023,
+      "id": "ab6aa0ce-60ef-4a7d-80eb-fdef65b23fc8"
+    },
+    {
+      "fullName": "Белов Алексей Матвеевна",
+      "dateOfBirth": "2006-03-19",
+      "groupLink": "6134-020402D",
+      "course": 3,
+      "yearOfAdmission": 2023,
+      "id": "29e62830-0ccf-4a28-807d-f9568786ef81"
+    },
+    {
+      "fullName": "Сидоров Михаил Аркадьевна",
+      "dateOfBirth": "1998-09-01",
+      "groupLink": "6135-020402D",
+      "course": 2,
+      "yearOfAdmission": 2024,
+      "id": "9aee54cd-2cb4-4480-848d-fa2b8b5e3090"
+    },
+    {
+      "fullName": "Кузнецова Мария Александрович",
+      "dateOfBirth": "2006-10-14",
+      "groupLink": "6134-020402D",
+      "course": 5,
+      "yearOfAdmission": 2022,
+      "id": "fc8c7245-de06-4e60-9ed6-4890a334bc98"
+    },
+    {
+      "fullName": "Евдокимов Анна Аркадьевна",
+      "dateOfBirth": "2003-11-08",
+      "groupLink": "6131-020402D",
+      "course": 3,
+      "yearOfAdmission": 2024,
+      "id": "60eb1b25-b740-4b8b-93f2-34bbfd41ca77"
+    },
+    {
+      "fullName": "Николаев Дмитрий Павловна",
+      "dateOfBirth": "2001-01-02",
+      "groupLink": "6135-020402D",
+      "course": 2,
+      "yearOfAdmission": 2024,
+      "id": "9643fd78-1ca2-4eb7-8825-55c40de8d0b3"
+    },
+    {
+      "fullName": "Белов Наталья Владимировна",
+      "dateOfBirth": "2004-09-25",
+      "groupLink": "6135-020402D",
+      "course": 1,
+      "yearOfAdmission": 2023,
+      "id": "7db4beba-f0c2-4a92-9039-29a963e88927"
+    },
+    {
+      "fullName": "Миронов Михаил Матвеевна",
+      "dateOfBirth": "1998-06-17",
+      "groupLink": "6133-020402D",
+      "course": 5,
+      "yearOfAdmission": 2022,
+      "id": "258d77ec-1037-491d-ac69-02ae2c4cad50"
+    },
+    {
+      "fullName": "Максимов Владимир Геннадьевна",
+      "dateOfBirth": "2001-11-13",
+      "groupLink": "6133-020402D",
+      "course": 1,
+      "yearOfAdmission": 2022,
+      "id": "fb091f5d-e34f-44bf-a41c-8cf521531b68"
+    },
+    {
+      "fullName": "Кузнецова Ольга Николаевна",
+      "dateOfBirth": "2007-10-04",
+      "groupLink": "6132-020402D",
+      "course": 5,
+      "yearOfAdmission": 2024,
+      "id": "6da24bdc-c10b-44e2-af06-cd6bdb0aa0b2"
+    },
+    {
+      "fullName": "Семенов Павел Константиновна",
+      "dateOfBirth": "2003-01-14",
+      "groupLink": "6131-020402D",
+      "course": 3,
+      "yearOfAdmission": 2023,
+      "id": "e71d06b3-c201-47ec-ac61-132a943548df"
+    },
+    {
+      "fullName": "Марков Антон Владимировна",
+      "dateOfBirth": "1998-08-13",
+      "groupLink": "6134-020402D",
+      "course": 1,
+      "yearOfAdmission": 2024,
+      "id": "b92929c0-1035-4897-bf02-94ccfc46fbad"
+    },
+    {
+      "fullName": "Семенов Дмитрий Аркадьевна",
+      "dateOfBirth": "1998-09-07",
+      "groupLink": "6131-020402D",
+      "course": 5,
+      "yearOfAdmission": 2024,
+      "id": "89d6616f-b296-47c7-b94c-0c468f9aaf6e"
+    },
+    {
+      "fullName": "Романова Кирилл Сергеевич",
+      "dateOfBirth": "2003-07-04",
+      "groupLink": "6131-020402D",
+      "course": 5,
+      "yearOfAdmission": 2022,
+      "id": "9971afae-e46f-475a-afce-b9117777414b"
+    },
+    {
+      "fullName": "Максимов Дарья Борисовна",
+      "dateOfBirth": "1998-07-15",
+      "groupLink": "6134-020402D",
+      "course": 4,
+      "yearOfAdmission": 2023,
+      "id": "8f90f4c5-c71f-40c8-ada3-3a8b317df622"
+    },
+    {
+      "fullName": "Михайлов Наталья Иванович",
+      "dateOfBirth": "2003-01-15",
+      "groupLink": "6132-020402D",
+      "course": 4,
+      "yearOfAdmission": 2022,
+      "id": "f2ec5282-3019-46a9-86aa-393bab67dc87"
+    },
+    {
+      "fullName": "Марков Ольга Константиновна",
+      "dateOfBirth": "1997-10-17",
+      "groupLink": "6134-020402D",
+      "course": 5,
+      "yearOfAdmission": 2023,
+      "id": "56976e29-388f-46d9-a135-15cf569ded18"
+    },
+    {
+      "fullName": "Захаров Михаил Денисовна",
+      "dateOfBirth": "2001-08-13",
+      "groupLink": "6134-020402D",
+      "course": 3,
+      "yearOfAdmission": 2023,
+      "id": "e56c4ece-a533-484f-bfb7-9180157f4d32"
+    },
+    {
+      "fullName": "Семенов Светлана Иванович",
+      "dateOfBirth": "2000-01-26",
+      "groupLink": "6133-020402D",
+      "course": 4,
+      "yearOfAdmission": 2024,
+      "id": "5dbb0b64-0b16-4fb3-9bcc-89c43a85ed44"
+    },
+    {
+      "fullName": "Андреев Полина Николаевна",
+      "dateOfBirth": "2000-10-01",
+      "groupLink": "6133-020402D",
+      "course": 2,
+      "yearOfAdmission": 2024,
+      "id": "cfcfc712-2707-4f0a-80fd-42a0b1323e65"
+    },
+    {
+      "fullName": "Захаров Дмитрий Иванович",
+      "dateOfBirth": "2004-11-14",
+      "groupLink": "6131-020402D",
+      "course": 1,
+      "yearOfAdmission": 2023,
+      "id": "bb5c68f9-0017-49b8-ae49-401d8ab3e343"
+    },
+    {
+      "fullName": "Семенов Ольга Матвеевна",
+      "dateOfBirth": "2006-02-15",
+      "groupLink": "6133-020402D",
+      "course": 2,
+      "yearOfAdmission": 2024,
+      "id": "47cde512-5096-42e2-a04d-aea3e8e489c5"
+    },
+    {
+      "fullName": "Захаров Виктория Олегович",
+      "dateOfBirth": "2003-01-12",
+      "groupLink": "6134-020402D",
+      "course": 3,
+      "yearOfAdmission": 2023,
+      "id": "42951944-cbe4-4ecf-b618-0f64da174fdc"
+    },
+    {
+      "fullName": "Орлова Андрей Николаевна",
+      "dateOfBirth": "2001-02-01",
+      "groupLink": "6132-020402D",
+      "course": 4,
+      "yearOfAdmission": 2024,
+      "id": "830612dd-a702-4bcf-b81e-5a49bd829573"
+    },
+    {
+      "fullName": "Евдокимов Владимир Сергеевич",
+      "dateOfBirth": "2006-05-05",
+      "groupLink": "6134-020402D",
+      "course": 3,
+      "yearOfAdmission": 2022,
+      "id": "4af19d7a-e69d-4fc2-be35-e2fa02337d68"
+    },
+    {
+      "id": "5331",
+      "fullName": "test",
+      "dateOfBirth": "2020-10-10",
+      "groupLink": "6131-020402D",
+      "course": 1,
+      "yearOfAdmission": 2020
+    },
+    {
+      "id": "169e",
+      "fullName": "Test Test",
+      "dateOfBirth": "2000-10-10",
+      "groupLink": "6134-020402D",
+      "course": 3,
+      "yearOfAdmission": 2024
+    }
+  ]
+}
